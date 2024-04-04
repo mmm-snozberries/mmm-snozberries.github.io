@@ -41,3 +41,11 @@
     background-color: #ddd; /* Light grey background on hover */
     color: black;
 }
+
+body {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Full viewport height */
+  flex-direction: column; /* Stack children vertically */
+}
