@@ -1,2 +1,5 @@
 [build]
   functions = "netlify/functions"
+[context.production.environment]
+  JEKYLL_ENV = "production"
+  RUBY_VERSION = "2.7.2" # Adjust the version to match your local development environment or the latest supported by Netlify.
