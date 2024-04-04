@@ -19,7 +19,7 @@ In the tapestry of human existence, music stands as a transcendental thread that
 ### Funk Safari
 [Follow on Instagram!]((https://www.instagram.com/funk_safari_band/))
 ### Bettys Neck
-
+{% include spotify_player_bettys.html %}
 
 ## Past Projects
 
