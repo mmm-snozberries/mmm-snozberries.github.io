@@ -16,7 +16,7 @@ In the tapestry of human existence, music stands as a transcendental thread that
 
 ### Funk Safari
 [Follow on Instagram!]((https://www.instagram.com/funk_safari_band/))
-
+{% include instagram_embed.html %}
   
 </blockquote>
 <!-- End Instagram Embed -->
