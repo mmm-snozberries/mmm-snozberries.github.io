@@ -21,3 +21,23 @@
     background-color: #ddd;
     color: black;
 }
+
+.social-media-navbar {
+    background-color: #f4f4f4; /* Light grey background */
+    overflow: hidden;
+    text-align: center; /* Center-align the links */
+}
+
+.social-media-navbar a {
+    float: none; /* Do not float links to ensure even spacing */
+    display: inline-block; /* Display links as inline-block for center alignment */
+    color: #333; /* Darker text color for contrast */
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.social-media-navbar a:hover {
+    background-color: #ddd; /* Light grey background on hover */
+    color: black;
+}
